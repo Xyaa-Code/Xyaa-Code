@@ -12,9 +12,9 @@
 <p align="left">
 <a href="https://wa.me/+16143244921" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="xyaa.codee.2050"</a>
 </p>
-<g href="codexya@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="xyaa.codee.2050"</a>
+<a href="codexya@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a>
 </p>
-<f href="https://www.facebook.com/xyaa.codee.2050" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="xyaa.codee.2050"</a>
+<a href="https://www.facebook.com/xyaa.codee.2050" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="xyaa.codee.2050"</a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hekelpro&show_icons=true&locale=en&layout=compact" alt="hekelpro" /></p>
