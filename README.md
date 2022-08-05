@@ -15,6 +15,6 @@
 
 [![webdev.gif](https://i.postimg.cc/mgQdxpcz/webdev.gif)](https://postimg.cc/YvCNY3zM)
 
-- Download Termux <a href="https://f-droid.org/en/packages/com.termux/">Klik Disini</a>
+- Download Termux <a href="https://f-droid.org/en/packages/com.termux/">Click here</a>
 
-- Download Pydroid 3 Pro Mod <a href="https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1">Klik Disini</a>
+- Download Pydroid 3 Pro Mod <a href="https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1">Click here</a>
