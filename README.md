@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **codexya@gmail.com**
 
+[![Picsart-22-08-05-21-17-51-526.jpg](https://i.postimg.cc/6qztjNsN/Picsart-22-08-05-21-17-51-526.jpg)](https://postimg.cc/9w460KFx)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://wa.me/+16143244921" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="xyaa.codee.2050"</a>
@@ -16,6 +18,3 @@
 - Download Termux <a href="https://f-droid.org/en/packages/com.termux/">Klik Disini</a>
 
 - Download Pydroid 3 Pro Mod <a href="https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1">Klik Disini</a>
-
-
-[![68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331.gif](https://i.postimg.cc/xC3JqgbJ/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331.gif)](https://postimg.cc/WFtbHG8T)
