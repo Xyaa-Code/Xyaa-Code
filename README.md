@@ -1,8 +1,7 @@
 ![ezgif-1-48668bf4a4](https://user-images.githubusercontent.com/109187416/180635513-95d47962-4b6c-4a30-9a0f-13fc3a6efba4.gif)
 
 
-
-- 📫 How to reach me **codexya@gmail.com**
+- 📫 ***How to _reach_ me*** **codexya@gmail.com**
 
 [![Picsart-22-08-05-21-17-51-526.jpg](https://i.postimg.cc/6qztjNsN/Picsart-22-08-05-21-17-51-526.jpg)](https://postimg.cc/9w460KFx)
 
@@ -13,6 +12,6 @@
 
 [![webdev.gif](https://i.postimg.cc/mgQdxpcz/webdev.gif)](https://postimg.cc/YvCNY3zM)
 
-- Download Termux <a href="https://f-droid.org/en/packages/com.termux/">Click here</a>
+ ***Download*** _Termux_ <a href="https://f-droid.org/en/packages/com.termux/">Click here</a>
 
-- Download Pydroid 3 Pro Mod <a href="https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1">Click here</a>
+_Download_ ***Pydroid*** _3_ ***Pro*** _Mod_ <a href="https://dotmoddroid.blogspot.com/2020/07/Pydroid-3-Premium-APK.html?m=1">Click here</a>
