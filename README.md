@@ -1,7 +1,7 @@
 ![ezgif-1-48668bf4a4](https://user-images.githubusercontent.com/109187416/180635513-95d47962-4b6c-4a30-9a0f-13fc3a6efba4.gif)
 
 
-- 📫 ***How to _reach_ me*** **codexya@gmail.com**
+- ♻️ ***My _contact_*** **https://wa.me/+16143244921**
 
 [![Picsart-22-08-05-21-17-51-526.jpg](https://i.postimg.cc/6qztjNsN/Picsart-22-08-05-21-17-51-526.jpg)](https://postimg.cc/9w460KFx)
 
