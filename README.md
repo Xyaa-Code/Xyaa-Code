@@ -10,7 +10,7 @@
 <a href="https://wa.me/+16143244921" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="xyaa.codee.2050"</a>
 </p>
 
-[![webdev.gif](https://i.postimg.cc/mgQdxpcz/webdev.gif)](https://postimg.cc/YvCNY3zM)
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://user-images.githubusercontent.com/109187416/196032252-055423d5-2e3f-446a-916e-40815885e5f0.gif)
 
  ***Download*** _Termux_ <a href="https://f-droid.org/en/packages/com.termux/">Click here</a>
 
