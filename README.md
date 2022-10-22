@@ -9,4 +9,4 @@
 
 [![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
 
-[![6tXM.gif](https://i.postimg.cc/XYCPXYcY/6tXM.gif)](https://postimg.cc/jDRcFKFp)
+[![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif](https://i.postimg.cc/L6f78sV6/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif)](https://postimg.cc/rKVghMbv)
