@@ -9,7 +9,7 @@
 
 ``` ⏳ Download the termux application```
 
-[![forthebadge cc-nc](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://www.instagram.com/Xyaa_Codename)
+[![forthebadge cc-nc](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.termux/)
 
 [![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif](https://i.postimg.cc/L6f78sV6/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif)](https://postimg.cc/rKVghMbv)
 
