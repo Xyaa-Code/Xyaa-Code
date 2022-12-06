@@ -13,7 +13,7 @@ public class adtya_putra {
 - Php
 - Java, Java Script
 - C++, C#, C
-### 👀 Visit me 
+### 👀 My contact
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Aditya.putraXD991)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+16143244921)
 [![](https://img.shields.io/badge/Instagram-Blue?logo=Instagram&logoColor=blue&labelColor=white)](https://www.instagram.com/xyaa_codename)<br><br>
