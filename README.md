@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @adtya
 ```I come from``` ***Semarang, Indonesia***
-<img src='https://h.top4top.io/p_25310xi8t0.jpeg' alt="This me" />
+<img src='https://a.top4top.io/p_2531c7tqe0.png' alt="This me" />
 ```JAVA
 public class adtya_putra {
    public static void main(String[] args) {
