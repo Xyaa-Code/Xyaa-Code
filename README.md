@@ -1,13 +1,14 @@
-#### I am ``` Aditya Putra Mahesa XD```
-<img src='https://a.top4top.io/p_25325nejx0.png' alt="This me" />
+<img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/20200909_084956.jpg" width="120" height="120" align="left">
+<pusat>
 
-```JAVA
-public class adtya_putra {
-   public static void main(String[] args) {
-      System.out.print("Welcome To My Profile!");
-   }
-}
 ```
+My name : Aditya Putra Mahesa
+```
+
+
+
+
+
 ### 💻 Programming language used
 - Python (3.x.x)
 - Php
@@ -16,6 +17,14 @@ public class adtya_putra {
 - js
 - Java, Java Script
 - C++, C#, C
+
+```JAVA
+public class adtya_putra {
+   public static void main(String[] args) {
+      System.out.print("Welcome To My Profile!");
+   }
+}
+```
 
 ### 👀 My contact
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Aditya.putraXD991)
