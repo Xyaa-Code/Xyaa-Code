@@ -1,5 +1,5 @@
-## 👋 Hi, I’m @adtya
-```I come from``` ***Semarang, Indonesia***
+### 👋 Hello, I am Xyaa Code
+***I come from*** ```Indonesia```
 <img src='https://a.top4top.io/p_2531c7tqe0.png' alt="This me" />
 ```JAVA
 public class adtya_putra {
@@ -11,8 +11,12 @@ public class adtya_putra {
 ### 💻 Programming language used
 - Python (3.x.x)
 - Php
+- Html
+- CSS
+- js
 - Java, Java Script
 - C++, C#, C
+
 ### 👀 My contact
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Aditya.putraXD991)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+16143244921)
