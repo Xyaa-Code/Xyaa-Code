@@ -19,9 +19,11 @@ ___
 - Php
 - Html
 - Css
-- js
+- Js
 - Java, Java Script
 - C++, C#, C
+
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;
 
 ```JAVA
 public class adtya_putra {
