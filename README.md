@@ -30,4 +30,7 @@ public class adtya_putra {
    }
 }
 ```
-### Words from me 
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xyaa-Codeo&show_icons=true&theme=radical" />
+<img align="right" alt="Most Used Languages krp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyaa-Code&langs=8&theme=radical" />
+
