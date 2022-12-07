@@ -31,6 +31,13 @@ public class adtya_putra {
 }
 ```
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xyaa-Codeo&show_icons=true&theme=radical" />
-<img align="right" alt="Most Used Languages krp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyaa-Code&langs=8&theme=radical" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyaa-code&label=Profile%20views&color=0e75b6&style=flat" alt="xyaa-code" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyaa-code" alt="xyaa-code" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p align="left">
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyaa-code&show_icons=true&locale=en" alt="xyaa-code" /></p>
