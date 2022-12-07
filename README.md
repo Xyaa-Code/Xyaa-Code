@@ -23,8 +23,6 @@ ___
 - Java, Java Script
 - C++, C#, C
 
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;
-
 ```JAVA
 public class adtya_putra {
    public static void main(String[] args) {
@@ -39,7 +37,6 @@ public class adtya_putra {
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyaa-code" alt="xyaa-code" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <p align="left">
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyaa-code&show_icons=true&locale=en" alt="xyaa-code" /></p>
