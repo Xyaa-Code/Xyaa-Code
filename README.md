@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/109187416?v=4" width="120" height="120" align="left">
+<img src="https://github.com/Xyaa-Code/InstaAdtya/blob/main/assets/screenshot/images%20(1)%20(7).jpeg" width="120" height="120" align="left">
 <center>
 
 
@@ -10,11 +10,9 @@
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
 
-```Wanna Hire Me ? ```
+##### Wanna Hire Me ?
 
 - Contact : adityaputramahesa241@gmail.com
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hekelpro&label=Profile%20views&color=0e75b6&style=flat" alt="hekelpro" /> </p>
 
 ### 💻 Programming language used
 - Python (3.x.x)
