@@ -10,11 +10,12 @@
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
 
-##### Wanna Hire Me ?
+#### Wanna Hire Me ?
 
 - Contact : adityaputramahesa241@gmail.com
 
 ### 💻 Programming language used
+```
 - Python (3.x.x)
 - Php
 - Html
@@ -22,7 +23,7 @@ ___
 - Js
 - Java, Java Script
 - C++, C#, C
-
+```
 ```JAVA
 public class adtya_putra {
    public static void main(String[] args) {
