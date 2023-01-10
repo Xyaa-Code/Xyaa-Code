@@ -1,4 +1,4 @@
-<img src="https://github.com/Xyaa-Code/InstaAdtya/blob/main/assets/screenshot/images%20(1)%20(7).jpeg" width="120" height="120" align="left">
+<img src="https://github.com/Xyaa-Code/Xyaa-Code/blob/main/assets/images__1___7_-removebg-preview.png" width="120" height="120" align="left">
 <center>
 
 
